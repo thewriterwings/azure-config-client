@@ -1,1 +1,1 @@
-# spring-cloud-configserver
+# spring-cloud-configclient
